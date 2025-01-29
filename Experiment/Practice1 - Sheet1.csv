@@ -1,0 +1,5 @@
+,sky,temp,humidity,wind,is_play
+0,sunny,warm,high,strong,yes
+1,sunny,warm,normal,week,yes
+2,rainy,cold,high,strong,no
+3,rainy,warm,high,week,yes
